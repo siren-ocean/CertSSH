@@ -2,7 +2,7 @@
 
 ## Android端通过https访问服务端，使用有证书和无证书且信任所有服务器两种方式各自访问
 
-<img src="images/demonstration.gif"/>
+<img src="images/demonstration.gif" width = "480"/>
 
 
 #### 生成服务端证书
